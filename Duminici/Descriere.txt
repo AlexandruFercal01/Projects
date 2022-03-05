@@ -1,0 +1,1 @@
+Program care calculeaza numarul de duminici intre 2 date introduse de la tastatura.

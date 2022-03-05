@@ -1,0 +1,4 @@
+Proiect realizat in Visual Studio pentru laboratorul de Programare Orientata Obiecte care simuleaza 
+un automat de vanzare de prajituri infinit. Se foloseste o structura de lista pentru a stoca meniul,
+un vector de obiecte pentru stocul de prajituri disponibil, iar umplerea vectorului este realizata 
+automat. 

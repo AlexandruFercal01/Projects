@@ -1,0 +1,2 @@
+Jocul Snake realizat in Python folosind modulul pygame, random si elemente de Programare Orientata Obiecte.
+In cazul erorilor trebuie schimbata calea de unde se importa resursele (fisierele block.jpg si apple.jpg).
